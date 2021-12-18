@@ -1,0 +1,18 @@
+{
+  "id": 9203,
+  "name": "Plantpot",
+  "models_2": {
+    "models": [
+      9159,
+      9161
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    null,
+    null
+  ]
+}

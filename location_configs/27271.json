@@ -1,0 +1,32 @@
+{
+  "id": 27271,
+  "name": "Deadman chest",
+  "models_2": {
+    "models": [
+      29746
+    ]
+  },
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      14499,
+      6563
+    ],
+    [
+      12698,
+      5660
+    ],
+    [
+      12818,
+      5784
+    ]
+  ],
+  "category": 884,
+  "unknown_69": 11
+}

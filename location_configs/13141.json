@@ -1,0 +1,36 @@
+{
+  "id": 13141,
+  "models": [
+    [
+      0,
+      2214
+    ],
+    [
+      2,
+      4873
+    ],
+    [
+      4,
+      16239
+    ],
+    [
+      9,
+      2215
+    ],
+    [
+      22,
+      16238
+    ]
+  ],
+  "name": "Nothing",
+  "is_transparent": true,
+  "actions": [
+    "hidden",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "mapscene": 22
+}

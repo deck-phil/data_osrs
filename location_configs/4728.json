@@ -1,0 +1,17 @@
+{
+  "id": 4728,
+  "name": "Climbing rope",
+  "models_2": {
+    "models": [
+      3640
+    ]
+  },
+  "unknown_19": 1,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ]
+}

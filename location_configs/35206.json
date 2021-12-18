@@ -1,0 +1,11 @@
+{
+  "id": 35206,
+  "name": "Pillar of Light",
+  "models_2": {
+    "models": [
+      38352
+    ]
+  },
+  "ambient": 40,
+  "contrast": 30
+}

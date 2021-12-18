@@ -1,0 +1,13 @@
+{
+  "id": 10802,
+  "name": "Boxes",
+  "models_2": {
+    "models": [
+      2138
+    ]
+  },
+  "is_transparent": true,
+  "textures": {
+    "16": 22
+  }
+}

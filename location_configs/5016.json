@@ -1,0 +1,22 @@
+{
+  "id": 5016,
+  "name": "slope",
+  "models_2": {
+    "models": [
+      3951
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Slide",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_73": true
+}

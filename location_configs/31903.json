@@ -1,0 +1,12 @@
+{
+  "id": 31903,
+  "name": "Bandos armour display case",
+  "models_2": {
+    "models": [
+      34556,
+      34553
+    ]
+  },
+  "unknown_27": false,
+  "ambient": 20
+}

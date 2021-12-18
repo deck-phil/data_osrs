@@ -1,0 +1,19 @@
+{
+  "id": 30549,
+  "name": "Muddy patch",
+  "models_2": {
+    "models": [
+      33849
+    ]
+  },
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

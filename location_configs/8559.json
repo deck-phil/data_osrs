@@ -1,0 +1,18 @@
+{
+  "id": 8559,
+  "name": "Potato plant",
+  "models_2": {
+    "models": [
+      8213,
+      7766
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 40022,
+  "name": "Broken Sink",
+  "models_2": {
+    "models": [
+      40824
+    ]
+  },
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "category": 175
+}

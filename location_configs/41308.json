@@ -1,0 +1,11 @@
+{
+  "id": 41308,
+  "name": "Banner",
+  "models_2": {
+    "models": [
+      41878
+    ]
+  },
+  "ambient": 10,
+  "contrast": 10
+}

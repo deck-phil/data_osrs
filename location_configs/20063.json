@@ -1,0 +1,11 @@
+{
+  "id": 20063,
+  "name": "A bunk bed",
+  "models_2": {
+    "models": [
+      20389
+    ]
+  },
+  "dim_y": 2,
+  "ambient": 25
+}

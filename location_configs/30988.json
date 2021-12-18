@@ -1,0 +1,17 @@
+{
+  "id": 30988,
+  "name": "Fossil Storage",
+  "models_2": {
+    "models": [
+      33917
+    ]
+  },
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1161
+}

@@ -1,0 +1,11 @@
+{
+  "id": 18010,
+  "name": "Stagnant fish display",
+  "models_2": {
+    "models": [
+      17742
+    ]
+  },
+  "dim_x": 2,
+  "ambient": 15
+}

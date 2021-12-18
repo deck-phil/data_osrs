@@ -1,0 +1,24 @@
+{
+  "id": 30102,
+  "name": "Chronicles of Xeric",
+  "models_2": {
+    "models": [
+      3138
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      28608,
+      55192
+    ]
+  ]
+}

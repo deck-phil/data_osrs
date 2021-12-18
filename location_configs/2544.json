@@ -1,0 +1,22 @@
+{
+  "id": 2544,
+  "name": "Manhole",
+  "models_2": {
+    "models": [
+      1543
+    ]
+  },
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      49,
+      37
+    ]
+  ]
+}

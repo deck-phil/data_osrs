@@ -1,0 +1,21 @@
+{
+  "id": 10819,
+  "name": "Willow",
+  "models_2": {
+    "models": [
+      8131
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "category": 286,
+  "mapscene": 3
+}

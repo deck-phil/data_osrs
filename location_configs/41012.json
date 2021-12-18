@@ -1,0 +1,19 @@
+{
+  "id": 41012,
+  "name": "Totem pole",
+  "models_2": {
+    "models": [
+      41822
+    ]
+  },
+  "ambient": 15,
+  "actions": [
+    "Untether",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "category": 1506
+}

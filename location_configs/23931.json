@@ -1,0 +1,12 @@
+{
+  "id": 23931,
+  "name": "Fermenting Vat",
+  "models_2": {
+    "models": [
+      7778,
+      7782
+    ]
+  },
+  "is_transparent": true,
+  "ambient": 15
+}

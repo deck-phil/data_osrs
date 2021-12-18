@@ -1,0 +1,19 @@
+{
+  "id": 30542,
+  "name": "Seaweed",
+  "models_2": {
+    "models": [
+      33839
+    ]
+  },
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

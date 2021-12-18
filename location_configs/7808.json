@@ -1,0 +1,12 @@
+{
+  "id": 7808,
+  "name": "Compost Bin",
+  "models_2": {
+    "models": [
+      7838,
+      7845,
+      7839
+    ]
+  },
+  "ambient": 25
+}

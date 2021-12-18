@@ -1,0 +1,17 @@
+{
+  "id": 13913,
+  "name": "Confusing door",
+  "models_2": {
+    "models": [
+      12623
+    ]
+  },
+  "unknown_21": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ]
+}

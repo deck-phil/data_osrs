@@ -1,0 +1,12 @@
+{
+  "id": 33012,
+  "name": "Justiciar armour",
+  "models_2": {
+    "models": [
+      35412
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10
+}

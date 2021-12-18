@@ -1,0 +1,12 @@
+{
+  "id": 14447,
+  "name": "Mushroom",
+  "models_2": {
+    "models": [
+      14637
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true
+}

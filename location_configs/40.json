@@ -1,0 +1,11 @@
+{
+  "id": 40,
+  "name": "Food trough",
+  "models_2": {
+    "models": [
+      14206
+    ]
+  },
+  "dim_x": 2,
+  "unknown_19": 1
+}

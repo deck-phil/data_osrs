@@ -1,0 +1,22 @@
+{
+  "id": 2932,
+  "name": "Barrel",
+  "models_2": {
+    "models": [
+      1460
+    ]
+  },
+  "actions": [
+    "Smash",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      33,
+      677
+    ]
+  ]
+}

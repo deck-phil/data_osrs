@@ -1,0 +1,25 @@
+{
+  "id": 6574,
+  "name": "Tea stall",
+  "models_2": {
+    "models": [
+      1421,
+      1417
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Steal-from",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6371,
+      8514
+    ]
+  ]
+}

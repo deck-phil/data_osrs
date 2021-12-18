@@ -1,0 +1,19 @@
+{
+  "id": 6771,
+  "name": "Scroll rack",
+  "models_2": {
+    "models": [
+      12414,
+      12411
+    ]
+  },
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 13
+}

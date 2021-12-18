@@ -1,0 +1,20 @@
+{
+  "id": 7752,
+  "name": "Cactus",
+  "models_2": {
+    "models": [
+      7832,
+      7767
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

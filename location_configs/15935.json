@@ -1,0 +1,12 @@
+{
+  "id": 15935,
+  "name": "Watering Hole",
+  "models_2": {
+    "models": [
+      15772
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "model": false
+}

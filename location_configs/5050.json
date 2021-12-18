@@ -1,0 +1,17 @@
+{
+  "id": 5050,
+  "name": "Stalagmite",
+  "models_2": {
+    "models": [
+      4973
+    ]
+  },
+  "unknown_21": true,
+  "actions": [
+    "Look",
+    "Squeeze-past",
+    null,
+    null,
+    null
+  ]
+}

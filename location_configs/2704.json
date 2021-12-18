@@ -1,0 +1,23 @@
+{
+  "id": 2704,
+  "name": "Rocks",
+  "models_2": {
+    "models": [
+      1390
+    ]
+  },
+  "unknown_21": true,
+  "actions": [
+    "Mine",
+    "Prospect",
+    "hidden",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      43038
+    ]
+  ]
+}

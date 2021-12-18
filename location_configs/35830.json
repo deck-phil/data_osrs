@@ -1,0 +1,12 @@
+{
+  "id": 35830,
+  "name": "Farming patch",
+  "models_2": {
+    "models": [
+      7794
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25
+}

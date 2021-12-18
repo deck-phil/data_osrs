@@ -1,0 +1,19 @@
+{
+  "id": 34500,
+  "name": "Chicken coop",
+  "models_2": {
+    "models": [
+      36449
+    ]
+  },
+  "dim_x": 2,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1469
+}

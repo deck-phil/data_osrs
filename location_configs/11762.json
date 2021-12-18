@@ -1,0 +1,14 @@
+{
+  "id": 11762,
+  "name": "Scaregull",
+  "models_2": {
+    "models": [
+      7812
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25
+}

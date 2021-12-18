@@ -1,0 +1,12 @@
+{
+  "id": 25190,
+  "name": "A tropical tree",
+  "models_2": {
+    "models": [
+      26489
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "mapscene": 5
+}

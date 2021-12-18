@@ -1,0 +1,17 @@
+{
+  "id": 2910,
+  "name": "Desk",
+  "models_2": {
+    "models": [
+      1224
+    ]
+  },
+  "actions": [
+    "Look",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "category": 155
+}

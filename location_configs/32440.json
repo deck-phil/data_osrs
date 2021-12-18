@@ -1,0 +1,17 @@
+{
+  "id": 32440,
+  "name": "Item Chest",
+  "models_2": {
+    "models": [
+      35095
+    ]
+  },
+  "unknown_19": 1,
+  "actions": [
+    "Claim",
+    null,
+    null,
+    null,
+    null
+  ]
+}

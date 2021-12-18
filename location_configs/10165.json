@@ -1,0 +1,17 @@
+{
+  "id": 10165,
+  "name": "Pressure Lever",
+  "models_2": {
+    "models": [
+      1774
+    ]
+  },
+  "unknown_19": 1,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ]
+}

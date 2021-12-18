@@ -1,0 +1,11 @@
+{
+  "id": 15714,
+  "name": "Drilling machine",
+  "models_2": {
+    "models": [
+      15523
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3
+}

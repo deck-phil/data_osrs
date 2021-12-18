@@ -1,0 +1,29 @@
+{
+  "id": 3550,
+  "models": [
+    [
+      0,
+      2214
+    ],
+    [
+      2,
+      4873
+    ],
+    [
+      4,
+      16239
+    ],
+    [
+      9,
+      2215
+    ],
+    [
+      22,
+      16238
+    ]
+  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "breakroutefinding": true,
+  "mapscene": 22
+}

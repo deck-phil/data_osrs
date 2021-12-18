@@ -1,0 +1,18 @@
+{
+  "id": 6866,
+  "name": "Ogre fire",
+  "models_2": {
+    "models": [
+      6794
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      9556,
+      8514
+    ]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 14002,
+  "name": "Warning sign",
+  "models_2": {
+    "models": [
+      14276
+    ]
+  },
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ]
+}

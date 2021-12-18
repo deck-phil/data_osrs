@@ -1,0 +1,19 @@
+{
+  "id": 6780,
+  "name": "Clay fireplace",
+  "models_2": {
+    "models": [
+      12610
+    ]
+  },
+  "dim_y": 2,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 13
+}

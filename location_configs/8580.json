@@ -1,0 +1,18 @@
+{
+  "id": 8580,
+  "name": "Onion seeds",
+  "models_2": {
+    "models": [
+      8207,
+      7766
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

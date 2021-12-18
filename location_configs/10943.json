@@ -1,0 +1,26 @@
+{
+  "id": 10943,
+  "name": "Rocks",
+  "models_2": {
+    "models": [
+      1390
+    ]
+  },
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Mine",
+    "Prospect",
+    "hidden",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      4645
+    ]
+  ],
+  "category": 196,
+  "mapscene": 12
+}

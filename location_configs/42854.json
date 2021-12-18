@@ -1,0 +1,19 @@
+{
+  "id": 42854,
+  "name": "Scuffed snow",
+  "models_2": {
+    "models": [
+      43080
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Place",
+    null,
+    null,
+    null,
+    null
+  ]
+}

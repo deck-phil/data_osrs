@@ -1,0 +1,11 @@
+{
+  "id": 3187,
+  "name": "Operating Table",
+  "models_2": {
+    "models": [
+      3248
+    ]
+  },
+  "dim_y": 2,
+  "unknown_19": 1
+}

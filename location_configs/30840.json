@@ -1,0 +1,15 @@
+{
+  "id": 30840,
+  "name": "Blood Stinktree",
+  "models_2": {
+    "models": [
+      33670
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "mapscene": 85
+}

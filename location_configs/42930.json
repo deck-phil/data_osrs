@@ -1,0 +1,17 @@
+{
+  "id": 42930,
+  "name": "Santa's Sack",
+  "models_2": {
+    "models": [
+      43110
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 10,
+  "contrast": 15,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112
+}

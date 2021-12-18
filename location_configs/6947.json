@@ -1,0 +1,14 @@
+{
+  "id": 6947,
+  "name": "Seed Stall",
+  "models_2": {
+    "models": [
+      37252,
+      37249
+    ]
+  },
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2617,
+  "name": "Stairs",
+  "models_2": {
+    "models": [
+      1940
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 3,
+  "actions": [
+    "Walk-Up",
+    null,
+    null,
+    null,
+    null
+  ]
+}

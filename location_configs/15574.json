@@ -1,0 +1,31 @@
+{
+  "id": 15574,
+  "name": "Strange Banana Tree",
+  "models_2": {
+    "models": [
+      1689
+    ]
+  },
+  "unknown_19": 1,
+  "actions": [
+    "Pick Banana",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6583,
+      972
+    ],
+    [
+      15799,
+      972
+    ],
+    [
+      13264,
+      972
+    ]
+  ]
+}

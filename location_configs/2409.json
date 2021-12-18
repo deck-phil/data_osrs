@@ -1,0 +1,26 @@
+{
+  "id": 2409,
+  "name": "Tree",
+  "models_2": {
+    "models": [
+      1637
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      3470,
+      5665
+    ]
+  ],
+  "category": 189,
+  "mapscene": 1
+}

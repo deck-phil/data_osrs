@@ -1,0 +1,27 @@
+{
+  "id": 19975,
+  "name": "Stone pedestal",
+  "models_2": {
+    "models": [
+      20062,
+      20061
+    ]
+  },
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      127,
+      43113
+    ],
+    [
+      32999,
+      43121
+    ]
+  ]
+}

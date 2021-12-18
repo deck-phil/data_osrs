@@ -1,0 +1,19 @@
+{
+  "id": 42864,
+  "name": "Snowman",
+  "models_2": {
+    "models": [
+      43058
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    null,
+    null,
+    "View",
+    null,
+    null
+  ]
+}

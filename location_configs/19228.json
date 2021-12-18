@@ -1,0 +1,20 @@
+{
+  "id": 19228,
+  "name": "Spiked pit",
+  "models_2": {
+    "models": [
+      10772
+    ]
+  },
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Jump",
+    "Dismantle",
+    null,
+    null,
+    null
+  ],
+  "contrast": 0,
+  "model": false
+}

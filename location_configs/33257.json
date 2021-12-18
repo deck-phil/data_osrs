@@ -1,0 +1,24 @@
+{
+  "id": 33257,
+  "name": "Rocks",
+  "models_2": {
+    "models": [
+      35864
+    ]
+  },
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Mine",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      20166,
+      0
+    ]
+  ]
+}

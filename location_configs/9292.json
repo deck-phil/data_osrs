@@ -1,0 +1,13 @@
+{
+  "id": 9292,
+  "name": "Statue",
+  "models_2": {
+    "models": [
+      9134,
+      9135
+    ]
+  },
+  "ambient": 20,
+  "mirror": true,
+  "model": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 39953,
+  "name": "Broken Mirror",
+  "models_2": {
+    "models": [
+      40823
+    ]
+  },
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6707,
+      7587
+    ],
+    [
+      7952,
+      7954
+    ]
+  ]
+}

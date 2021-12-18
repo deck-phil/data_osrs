@@ -1,0 +1,20 @@
+{
+  "id": 34023,
+  "name": "Diseased dragonfruit plant",
+  "models_2": {
+    "models": [
+      36651,
+      7767
+    ]
+  },
+  "dim_x": 11,
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    "Prune",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 16500,
+  "name": "Obstacle pipe",
+  "models_2": {
+    "models": [
+      1475
+    ]
+  },
+  "dim_x": 2,
+  "colours": [
+    [
+      24,
+      9098
+    ]
+  ],
+  "textures": {
+    "2": 23
+  },
+  "unknown_69": 7
+}

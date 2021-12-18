@@ -1,0 +1,18 @@
+{
+  "id": 29771,
+  "name": "Old tools",
+  "models_2": {
+    "models": [
+      32478
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Take",
+    "Take Rake",
+    "Take Spade",
+    "Take Seed Dibber",
+    null
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 4068,
+  "name": "Broken Wall",
+  "models_2": {
+    "models": [
+      4135
+    ]
+  },
+  "actions": [
+    "Repair",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "category": 226
+}

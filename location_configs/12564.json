@@ -1,0 +1,26 @@
+{
+  "id": 12564,
+  "name": "Pile of Rock",
+  "models_2": {
+    "models": [
+      3184
+    ]
+  },
+  "actions": [
+    "Mine",
+    "Prospect",
+    "hidden",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10299,
+      5790
+    ],
+    [
+      24,
+      5008
+    ]
+  ]
+}

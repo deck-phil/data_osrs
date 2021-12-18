@@ -1,0 +1,12 @@
+{
+  "id": 9200,
+  "name": "Orchids",
+  "models_2": {
+    "models": [
+      9159,
+      9160,
+      9155
+    ]
+  },
+  "ambient": 25
+}

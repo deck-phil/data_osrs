@@ -1,0 +1,17 @@
+{
+  "id": 13388,
+  "name": "Mahogany prize chest",
+  "models_2": {
+    "models": [
+      11205
+    ]
+  },
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

@@ -1,0 +1,21 @@
+{
+  "id": 42869,
+  "name": "Pile of Snow",
+  "models_2": {
+    "models": [
+      20484
+    ]
+  },
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Dig",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "unknown_75": 1
+}

@@ -1,0 +1,17 @@
+{
+  "id": 6897,
+  "name": "Stand",
+  "models_2": {
+    "models": [
+      6799
+    ]
+  },
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

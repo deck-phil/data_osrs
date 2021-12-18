@@ -1,0 +1,17 @@
+{
+  "id": 10530,
+  "name": "Bank Deposit Chest",
+  "models_2": {
+    "models": [
+      1226
+    ]
+  },
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 276
+}

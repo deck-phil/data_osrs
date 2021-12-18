@@ -1,0 +1,13 @@
+{
+  "id": 42427,
+  "name": "Yew",
+  "models_2": {
+    "models": [
+      8157
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "mapscene": 3
+}

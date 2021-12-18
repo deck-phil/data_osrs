@@ -1,0 +1,16 @@
+{
+  "id": 2668,
+  "name": "Winch bucket",
+  "models_2": {
+    "models": [
+      1779
+    ]
+  },
+  "actions": [
+    "Look at",
+    "Use",
+    null,
+    null,
+    null
+  ]
+}

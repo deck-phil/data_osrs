@@ -1,0 +1,14 @@
+{
+  "id": 29669,
+  "name": "Redwood",
+  "models_2": {
+    "models": [
+      32881
+    ]
+  },
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": -20,
+  "contrast": 100
+}

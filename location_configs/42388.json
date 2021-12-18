@@ -1,0 +1,14 @@
+{
+  "id": 42388,
+  "name": "Pine",
+  "models_2": {
+    "models": [
+      42497
+    ]
+  },
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 10,
+  "scale_y": 112,
+  "mapscene": 6
+}

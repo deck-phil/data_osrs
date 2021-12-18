@@ -1,0 +1,12 @@
+{
+  "id": 15184,
+  "name": "Eggs",
+  "models_2": {
+    "models": [
+      15062,
+      15066,
+      15069
+    ]
+  },
+  "is_transparent": true
+}

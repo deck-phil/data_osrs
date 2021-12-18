@@ -1,0 +1,13 @@
+{
+  "id": 7466,
+  "name": "Apple Tree",
+  "models_2": {
+    "models": [
+      7921,
+      7928
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "mapscene": 0
+}

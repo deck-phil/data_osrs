@@ -1,0 +1,20 @@
+{
+  "id": 8702,
+  "name": "Water barrel",
+  "models_2": {
+    "models": [
+      5499
+    ]
+  },
+  "colours": [
+    [
+      6932,
+      6443
+    ],
+    [
+      6684,
+      6554
+    ]
+  ],
+  "category": 241
+}

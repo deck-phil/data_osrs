@@ -1,0 +1,23 @@
+{
+  "id": 1995,
+  "name": "Chest",
+  "models_2": {
+    "models": [
+      1226
+    ]
+  },
+  "actions": [
+    "Search",
+    "Shut",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      41,
+      11173
+    ]
+  ],
+  "unknown_69": 14
+}

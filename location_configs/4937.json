@@ -1,0 +1,20 @@
+{
+  "id": 4937,
+  "name": "Lift",
+  "models_2": {
+    "models": [
+      21236
+    ]
+  },
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Go-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "scale_y": 153
+}

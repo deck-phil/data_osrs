@@ -1,0 +1,26 @@
+{
+  "id": 8046,
+  "name": "Curry tree stump",
+  "models_2": {
+    "models": [
+      7976,
+      7767
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      10023,
+      7975
+    ]
+  ]
+}

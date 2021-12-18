@@ -1,0 +1,15 @@
+{
+  "id": 28524,
+  "name": "Work table",
+  "models_2": {
+    "models": [
+      30914
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "category": 157
+}

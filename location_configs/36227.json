@@ -1,0 +1,16 @@
+{
+  "id": 36227,
+  "name": "Chimney",
+  "models_2": {
+    "models": [
+      37827
+    ]
+  },
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ]
+}

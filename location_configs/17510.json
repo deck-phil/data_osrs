@@ -1,0 +1,10 @@
+{
+  "id": 17510,
+  "name": "Waste pipes",
+  "models_2": {
+    "models": [
+      17781
+    ]
+  },
+  "ambient": 20
+}

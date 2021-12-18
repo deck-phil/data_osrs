@@ -1,0 +1,17 @@
+{
+  "id": 35798,
+  "name": "Bed",
+  "models_2": {
+    "models": [
+      1277
+    ]
+  },
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

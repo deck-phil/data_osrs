@@ -1,0 +1,17 @@
+{
+  "id": 20788,
+  "name": "Dead Explorer",
+  "models_2": {
+    "models": [
+      15592
+    ]
+  },
+  "dim_x": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ]
+}

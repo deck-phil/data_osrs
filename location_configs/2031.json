@@ -1,0 +1,18 @@
+{
+  "id": 2031,
+  "name": "Anvil",
+  "models_2": {
+    "models": [
+      1251
+    ]
+  },
+  "actions": [
+    "Smith",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 772,
+  "unknown_69": 14
+}

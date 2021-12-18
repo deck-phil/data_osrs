@@ -1,0 +1,13 @@
+{
+  "id": 35958,
+  "name": "Empty rack",
+  "models_2": {
+    "models": [
+      8326
+    ]
+  },
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false
+}

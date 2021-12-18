@@ -1,0 +1,12 @@
+{
+  "id": 633,
+  "name": "Spice stall",
+  "models_2": {
+    "models": [
+      1421,
+      1484
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2
+}

@@ -1,0 +1,17 @@
+{
+  "id": 20242,
+  "name": "Defender item machine",
+  "models_2": {
+    "models": [
+      20694
+    ]
+  },
+  "ambient": 45,
+  "actions": [
+    "Stock-Up",
+    "Take-Crackers",
+    "Take-Tofu",
+    "Take-Worms",
+    null
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 27364,
+  "name": "Wooden cart",
+  "models_2": {
+    "models": [
+      19275,
+      19274,
+      19277
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_27": false
+}

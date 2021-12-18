@@ -1,0 +1,16 @@
+{
+  "id": 19886,
+  "name": "Books",
+  "models_2": {
+    "models": [
+      20053
+    ]
+  },
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

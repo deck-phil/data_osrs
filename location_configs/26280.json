@@ -1,0 +1,17 @@
+{
+  "id": 26280,
+  "name": "Absorption potion",
+  "models_2": {
+    "models": [
+      12388
+    ]
+  },
+  "actions": [
+    "Check",
+    "Take",
+    "Store",
+    null,
+    null
+  ],
+  "unknown_69": 11
+}

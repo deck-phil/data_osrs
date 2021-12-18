@@ -1,0 +1,31 @@
+{
+  "id": 39908,
+  "name": "Cabinet",
+  "models_2": {
+    "models": [
+      40815
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5541,
+      5285
+    ],
+    [
+      5660,
+      7954
+    ],
+    [
+      5908,
+      7830
+    ]
+  ]
+}

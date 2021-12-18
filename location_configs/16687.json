@@ -1,0 +1,24 @@
+{
+  "id": 16687,
+  "name": "Rune essence",
+  "models_2": {
+    "models": [
+      1390
+    ]
+  },
+  "is_transparent": true,
+  "actions": [
+    "Mine",
+    "Prospect",
+    "hidden",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      43297
+    ]
+  ],
+  "mapscene": 12
+}

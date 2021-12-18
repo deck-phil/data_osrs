@@ -1,0 +1,17 @@
+{
+  "id": 6914,
+  "name": "Hole",
+  "models_2": {
+    "models": [
+      6894
+    ]
+  },
+  "dim_x": 3,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

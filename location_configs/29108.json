@@ -1,0 +1,26 @@
+{
+  "id": 29108,
+  "name": "Bank Deposit Pot",
+  "models_2": {
+    "models": [
+      2199
+    ]
+  },
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6585,
+      6703
+    ],
+    [
+      5673,
+      5673
+    ]
+  ]
+}

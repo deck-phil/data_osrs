@@ -1,0 +1,17 @@
+{
+  "id": 40282,
+  "name": "Drawers",
+  "models_2": {
+    "models": [
+      40798
+    ]
+  },
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13
+}

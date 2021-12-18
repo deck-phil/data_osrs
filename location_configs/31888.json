@@ -1,0 +1,11 @@
+{
+  "id": 31888,
+  "name": "Brazier",
+  "models_2": {
+    "models": [
+      34527
+    ]
+  },
+  "ambient": 10,
+  "contrast": 10
+}

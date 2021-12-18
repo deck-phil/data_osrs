@@ -1,0 +1,21 @@
+{
+  "id": 40274,
+  "name": "<col=ffff00>Lazy hellcat",
+  "models_2": {
+    "models": [
+      13411,
+      13407
+    ]
+  },
+  "unknown_24": 317,
+  "ambient": 40,
+  "colours": [
+    [
+      16,
+      914
+    ]
+  ],
+  "scale_x": 70,
+  "scale_y": 70,
+  "scale_z": 70
+}

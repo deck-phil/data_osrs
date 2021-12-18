@@ -1,0 +1,17 @@
+{
+  "id": 5946,
+  "name": "Climbing rope",
+  "models_2": {
+    "models": [
+      1487
+    ]
+  },
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7
+}

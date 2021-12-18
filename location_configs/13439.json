@@ -1,0 +1,11 @@
+{
+  "id": 13439,
+  "name": "Table blockade",
+  "models_2": {
+    "models": [
+      31089
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3
+}

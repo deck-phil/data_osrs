@@ -1,0 +1,17 @@
+{
+  "id": 3480,
+  "name": "Coffin",
+  "models_2": {
+    "models": [
+      3547
+    ]
+  },
+  "dim_y": 2,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

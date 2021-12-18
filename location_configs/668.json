@@ -1,0 +1,16 @@
+{
+  "id": 668,
+  "name": "Pile of skulls",
+  "models_2": {
+    "models": [
+      2171
+    ]
+  },
+  "is_transparent": true,
+  "colours": [
+    [
+      10361,
+      6241
+    ]
+  ]
+}

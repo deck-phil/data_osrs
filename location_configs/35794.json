@@ -1,0 +1,11 @@
+{
+  "id": 35794,
+  "name": "Broken Grate",
+  "models_2": {
+    "models": [
+      38316
+    ]
+  },
+  "ambient": 10,
+  "contrast": 5
+}

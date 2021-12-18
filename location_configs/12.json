@@ -1,0 +1,22 @@
+{
+  "id": 12,
+  "name": "Rock pile",
+  "models_2": {
+    "models": [
+      1391
+    ]
+  },
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      7721
+    ]
+  ]
+}

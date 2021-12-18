@@ -1,0 +1,13 @@
+{
+  "id": 40743,
+  "name": "Dark Chest",
+  "models_2": {
+    "models": [
+      41395
+    ]
+  },
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 10,
+  "unknown_69": 14
+}

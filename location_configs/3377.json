@@ -1,0 +1,17 @@
+{
+  "id": 3377,
+  "name": "Locked Ogre chest",
+  "models_2": {
+    "models": [
+      3450
+    ]
+  },
+  "dim_x": 2,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ]
+}

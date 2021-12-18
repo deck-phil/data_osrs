@@ -1,0 +1,18 @@
+{
+  "id": 8575,
+  "name": "Allotment",
+  "models_2": {
+    "models": [
+      8225,
+      7766
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 29566,
+  "name": "Fairy ring",
+  "models_2": {
+    "models": [
+      6318
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    null,
+    "Configure",
+    "Last-destination (ALS)",
+    null,
+    null
+  ]
+}

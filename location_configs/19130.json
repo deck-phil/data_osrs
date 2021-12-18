@@ -1,0 +1,14 @@
+{
+  "id": 19130,
+  "name": "Air balloon",
+  "models_2": {
+    "models": [
+      19507,
+      19506
+    ]
+  },
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_24": 5141,
+  "ambient": 25
+}

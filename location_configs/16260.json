@@ -1,0 +1,10 @@
+{
+  "id": 16260,
+  "name": "Stalagmite",
+  "models_2": {
+    "models": [
+      16089
+    ]
+  },
+  "ambient": 20
+}

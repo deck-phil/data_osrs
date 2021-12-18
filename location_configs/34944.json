@@ -1,0 +1,16 @@
+{
+  "id": 34944,
+  "name": "Table",
+  "models_2": {
+    "models": [
+      1213
+    ]
+  },
+  "dim_x": 3,
+  "is_transparent": true,
+  "textures": {
+    "5": 16,
+    "22": 16
+  },
+  "category": 156
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13569,
+  "name": "Cider barrel",
+  "models_2": {
+    "models": [
+      12389
+    ]
+  },
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 11
+}

@@ -1,0 +1,24 @@
+{
+  "id": 12746,
+  "name": "Rubble",
+  "models_2": {
+    "models": [
+      1390
+    ]
+  },
+  "is_transparent": true,
+  "actions": [
+    "Mine",
+    "Prospect",
+    "hidden",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      4645
+    ]
+  ],
+  "mapscene": 12
+}

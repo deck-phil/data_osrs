@@ -1,0 +1,20 @@
+{
+  "id": 33309,
+  "name": "Buckets",
+  "models_2": {
+    "models": [
+      35919
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ]
+}

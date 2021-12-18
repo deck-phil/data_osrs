@@ -1,0 +1,16 @@
+{
+  "id": 19919,
+  "name": "Birdseed holder",
+  "models_2": {
+    "models": [
+      20052
+    ]
+  },
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ]
+}

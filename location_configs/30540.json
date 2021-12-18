@@ -1,0 +1,16 @@
+{
+  "id": 30540,
+  "name": "Smelly mushroom",
+  "models_2": {
+    "models": [
+      33841
+    ]
+  },
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

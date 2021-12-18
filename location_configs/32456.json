@@ -1,0 +1,18 @@
+{
+  "id": 32456,
+  "name": "Rowboat",
+  "models_2": {
+    "models": [
+      30279,
+      30349
+    ]
+  },
+  "unknown_19": 1,
+  "actions": [
+    "Travel",
+    null,
+    null,
+    null,
+    null
+  ]
+}

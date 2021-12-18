@@ -1,0 +1,19 @@
+{
+  "id": 4300,
+  "name": "Crate",
+  "models_2": {
+    "models": [
+      2143
+    ]
+  },
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

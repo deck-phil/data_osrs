@@ -1,0 +1,16 @@
+{
+  "id": 4876,
+  "name": "General Stall",
+  "models_2": {
+    "models": [
+      4760
+    ]
+  },
+  "actions": [
+    null,
+    "Steal from",
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28833,
+  "name": "Monkey trap",
+  "models_2": {
+    "models": [
+      6565,
+      6562
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 7254,
+  "category": 949,
+  "mapscene": 71
+}

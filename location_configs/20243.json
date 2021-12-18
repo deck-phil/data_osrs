@@ -1,0 +1,17 @@
+{
+  "id": 20243,
+  "name": "Healer item machine",
+  "models_2": {
+    "models": [
+      20695
+    ]
+  },
+  "ambient": 45,
+  "actions": [
+    "Stock-Up",
+    "Take-Vial",
+    "Take-Tofu",
+    "Take-Worms",
+    "Take-Meat"
+  ]
+}

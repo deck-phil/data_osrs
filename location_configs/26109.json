@@ -1,0 +1,16 @@
+{
+  "id": 26109,
+  "name": "Spiders' nest",
+  "models_2": {
+    "models": [
+      27296
+    ]
+  },
+  "actions": [
+    null,
+    "Investigate",
+    null,
+    null,
+    null
+  ]
+}

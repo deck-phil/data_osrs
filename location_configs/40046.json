@@ -1,0 +1,22 @@
+{
+  "id": 40046,
+  "name": "Bed",
+  "models_2": {
+    "models": [
+      12398
+    ]
+  },
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      926,
+      16796
+    ]
+  ]
+}

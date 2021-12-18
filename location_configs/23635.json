@@ -1,0 +1,12 @@
+{
+  "id": 23635,
+  "name": "Display case",
+  "models_2": {
+    "models": [
+      25777,
+      25778
+    ]
+  },
+  "ambient": 20,
+  "contrast": 20
+}

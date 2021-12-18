@@ -1,0 +1,18 @@
+{
+  "id": 40133,
+  "name": "Broken Old Bookshelf",
+  "models_2": {
+    "models": [
+      7392,
+      7393
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ]
+}

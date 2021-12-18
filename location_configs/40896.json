@@ -1,0 +1,13 @@
+{
+  "id": 40896,
+  "name": "Pebbles",
+  "models_2": {
+    "models": [
+      41479
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true
+}

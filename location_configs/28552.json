@@ -1,0 +1,12 @@
+{
+  "id": 28552,
+  "name": "Bank light",
+  "models_2": {
+    "models": [
+      30870
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20
+}

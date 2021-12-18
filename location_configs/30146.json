@@ -1,0 +1,31 @@
+{
+  "id": 30146,
+  "name": "Shelves",
+  "models_2": {
+    "models": [
+      32341
+    ]
+  },
+  "unknown_19": 1,
+  "actions": [
+    "Take-tinderbox",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8076,
+      7060
+    ],
+    [
+      7952,
+      6936
+    ],
+    [
+      7700,
+      6812
+    ]
+  ]
+}

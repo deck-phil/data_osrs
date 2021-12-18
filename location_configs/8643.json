@@ -1,0 +1,18 @@
+{
+  "id": 8643,
+  "name": "Tomato plant",
+  "models_2": {
+    "models": [
+      8219,
+      7766
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

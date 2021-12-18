@@ -1,0 +1,17 @@
+{
+  "id": 11209,
+  "name": "Gangplank",
+  "models_2": {
+    "models": [
+      3951
+    ]
+  },
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ]
+}

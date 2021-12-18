@@ -1,0 +1,20 @@
+{
+  "id": 4975,
+  "name": "Crate",
+  "models_2": {
+    "models": [
+      2141
+    ]
+  },
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "5": 16,
+    "22": 16
+  }
+}

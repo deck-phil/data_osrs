@@ -1,0 +1,17 @@
+{
+  "id": 39891,
+  "name": "Broken table",
+  "models_2": {
+    "models": [
+      12492
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5947,
+  "name": "Dark hole",
+  "models_2": {
+    "models": [
+      5756
+    ]
+  },
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ]
+}

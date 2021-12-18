@@ -1,0 +1,15 @@
+{
+  "id": 42871,
+  "name": "Christmas Tree",
+  "models_2": {
+    "models": [
+      39079
+    ]
+  },
+  "dim_x": 7,
+  "dim_y": 7,
+  "ambient": 25,
+  "scale_x": 112,
+  "scale_z": 112,
+  "mapscene": 3
+}

@@ -1,0 +1,12 @@
+{
+  "id": 41512,
+  "name": "Mine cart",
+  "models_2": {
+    "models": [
+      42055
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true
+}

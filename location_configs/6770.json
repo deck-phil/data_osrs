@@ -1,0 +1,18 @@
+{
+  "id": 6770,
+  "name": "Bookcase",
+  "models_2": {
+    "models": [
+      12409
+    ]
+  },
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206,
+  "unknown_69": 13
+}

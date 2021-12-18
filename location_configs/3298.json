@@ -1,0 +1,16 @@
+{
+  "id": 3298,
+  "name": "Stone tablet",
+  "models_2": {
+    "models": [
+      759
+    ]
+  },
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ]
+}

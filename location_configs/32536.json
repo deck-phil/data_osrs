@@ -1,0 +1,24 @@
+{
+  "id": 32536,
+  "name": "Logs",
+  "models_2": {
+    "models": [
+      5495
+    ]
+  },
+  "is_transparent": true,
+  "actions": [
+    "Take-axe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      5652
+    ]
+  ],
+  "category": 1217
+}

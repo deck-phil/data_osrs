@@ -1,0 +1,12 @@
+{
+  "id": 19852,
+  "name": "Hill",
+  "models_2": {
+    "models": [
+      20103
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10
+}

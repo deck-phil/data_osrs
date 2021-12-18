@@ -1,0 +1,21 @@
+{
+  "id": 152,
+  "name": "Compost heap",
+  "models_2": {
+    "models": [
+      1428
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "2": 23
+  }
+}

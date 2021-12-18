@@ -1,0 +1,24 @@
+{
+  "id": 8601,
+  "name": "Strawberry",
+  "models_2": {
+    "models": [
+      8169,
+      7766
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    "Harvest",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      1984,
+      815
+    ]
+  ]
+}

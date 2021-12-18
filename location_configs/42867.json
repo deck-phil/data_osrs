@@ -1,0 +1,26 @@
+{
+  "id": 42867,
+  "models": [
+    [
+      10,
+      43047
+    ],
+    [
+      22,
+      43056
+    ]
+  ],
+  "name": "Bush",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "mapscene": 9
+}

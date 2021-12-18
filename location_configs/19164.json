@@ -1,0 +1,14 @@
+{
+  "id": 19164,
+  "name": "Basket",
+  "models_2": {
+    "models": [
+      19511
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 5109,
+  "ambient": 20,
+  "model": false
+}

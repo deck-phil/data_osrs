@@ -1,0 +1,17 @@
+{
+  "id": 40144,
+  "name": "Drawers",
+  "models_2": {
+    "models": [
+      40794
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ]
+}

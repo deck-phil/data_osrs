@@ -1,0 +1,17 @@
+{
+  "id": 19976,
+  "name": "Winch",
+  "models_2": {
+    "models": [
+      20071
+    ]
+  },
+  "unknown_19": 1,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ]
+}

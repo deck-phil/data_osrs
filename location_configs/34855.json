@@ -1,0 +1,17 @@
+{
+  "id": 34855,
+  "name": "Sacred Bone Burner",
+  "models_2": {
+    "models": [
+      37318
+    ]
+  },
+  "unknown_27": false,
+  "actions": [
+    "Check-Faith",
+    null,
+    null,
+    null,
+    null
+  ]
+}

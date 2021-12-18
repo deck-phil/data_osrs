@@ -1,0 +1,18 @@
+{
+  "id": 35867,
+  "name": "Elven lamp",
+  "models_2": {
+    "models": [
+      3952
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_24": 1212,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 40179,
+  "name": "Broken Mirror",
+  "models_2": {
+    "models": [
+      40821
+    ]
+  },
+  "ambient": 30,
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ],
+  "contrast": 10
+}

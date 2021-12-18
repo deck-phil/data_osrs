@@ -1,0 +1,21 @@
+{
+  "id": 42103,
+  "name": "Broken altar",
+  "models_2": {
+    "models": [
+      37300
+    ]
+  },
+  "dim_x": 4,
+  "unknown_27": false,
+  "ambient": 5,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5,
+  "unknown_69": 11
+}

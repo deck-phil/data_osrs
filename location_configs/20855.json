@@ -1,0 +1,20 @@
+{
+  "id": 20855,
+  "name": "Skeleton",
+  "models_2": {
+    "models": [
+      1078
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2048,
+  "name": "Door",
+  "models_2": {
+    "models": [
+      570
+    ]
+  },
+  "unknown_22": true,
+  "occludes_1": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ]
+}

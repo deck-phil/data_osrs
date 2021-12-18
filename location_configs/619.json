@@ -1,0 +1,12 @@
+{
+  "id": 619,
+  "name": "Chemistry Table",
+  "models_2": {
+    "models": [
+      1253
+    ]
+  },
+  "dim_x": 2,
+  "is_transparent": true,
+  "category": 154
+}

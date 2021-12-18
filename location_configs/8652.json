@@ -1,0 +1,36 @@
+{
+  "id": 8652,
+  "name": "Diseased tomato plant",
+  "models_2": {
+    "models": [
+      8220,
+      7766
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    "Cure",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      19096,
+      10904
+    ],
+    [
+      16931,
+      10787
+    ],
+    [
+      20135,
+      10667
+    ],
+    [
+      7964,
+      12719
+    ]
+  ]
+}

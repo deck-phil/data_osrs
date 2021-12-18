@@ -1,0 +1,11 @@
+{
+  "id": 19931,
+  "name": "Chest",
+  "models_2": {
+    "models": [
+      18236
+    ]
+  },
+  "ambient": 10,
+  "contrast": 10
+}

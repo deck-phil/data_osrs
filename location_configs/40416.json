@@ -1,0 +1,25 @@
+{
+  "id": 40416,
+  "name": "Waystone",
+  "models_2": {
+    "models": [
+      41009,
+      41027
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 8791,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Channel",
+    "Channel (Wilderness)",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "mapscene": 14
+}

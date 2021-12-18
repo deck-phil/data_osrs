@@ -1,0 +1,23 @@
+{
+  "id": 15062,
+  "name": "Teak",
+  "models_2": {
+    "models": [
+      8902
+    ]
+  },
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      3470,
+      9112
+    ]
+  ],
+  "mapscene": 1
+}

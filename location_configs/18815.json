@@ -1,0 +1,17 @@
+{
+  "id": 18815,
+  "name": "Armour case space",
+  "models_2": {
+    "models": [
+      18993
+    ]
+  },
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "category": 207
+}

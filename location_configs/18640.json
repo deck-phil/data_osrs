@@ -1,0 +1,17 @@
+{
+  "id": 18640,
+  "name": "An old lever",
+  "models_2": {
+    "models": [
+      18783
+    ]
+  },
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14
+}

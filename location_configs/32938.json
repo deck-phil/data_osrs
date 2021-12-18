@@ -1,0 +1,19 @@
+{
+  "id": 32938,
+  "name": "Mercenary",
+  "models_2": {
+    "models": [
+      35407
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "colours": [
+    [
+      4550,
+      3365
+    ]
+  ]
+}

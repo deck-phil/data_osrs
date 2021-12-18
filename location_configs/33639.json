@@ -1,0 +1,12 @@
+{
+  "id": 33639,
+  "name": "Seed Stall",
+  "models_2": {
+    "models": [
+      1421,
+      7370
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2
+}

@@ -1,0 +1,28 @@
+{
+  "id": 4788,
+  "name": "Bamboo Gate",
+  "models_2": {
+    "models": [
+      4728
+    ]
+  },
+  "dim_x": 2,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      5673
+    ],
+    [
+      41,
+      6585
+    ]
+  ],
+  "mirror": true
+}

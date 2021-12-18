@@ -1,0 +1,18 @@
+{
+  "id": 33681,
+  "name": "Diseased Snape grass",
+  "models_2": {
+    "models": [
+      36912,
+      7766
+    ]
+  },
+  "ambient": 10,
+  "actions": [
+    "Cure",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ]
+}

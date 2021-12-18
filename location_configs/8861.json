@@ -1,0 +1,11 @@
+{
+  "id": 8861,
+  "name": "Kelda Hops Patch",
+  "models_2": {
+    "models": [
+      8223,
+      7766
+    ]
+  },
+  "ambient": 25
+}

@@ -1,0 +1,13 @@
+{
+  "id": 408,
+  "name": "Henge",
+  "models_2": {
+    "models": [
+      1422
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "mapscene": 14
+}

@@ -1,0 +1,11 @@
+{
+  "id": 7532,
+  "name": "Valve",
+  "models_2": {
+    "models": [
+      7777
+    ]
+  },
+  "is_transparent": true,
+  "ambient": 15
+}

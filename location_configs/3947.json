@@ -1,0 +1,11 @@
+{
+  "id": 3947,
+  "name": "Huge Gate",
+  "models_2": {
+    "models": [
+      3998
+    ]
+  },
+  "dim_y": 2,
+  "ambient": 25
+}

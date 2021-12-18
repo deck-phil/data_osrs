@@ -1,0 +1,18 @@
+{
+  "id": 11217,
+  "name": "Cannon",
+  "models_2": {
+    "models": [
+      1508
+    ]
+  },
+  "dim_y": 2,
+  "unknown_27": false,
+  "actions": [
+    "Fire!",
+    null,
+    null,
+    null,
+    null
+  ]
+}

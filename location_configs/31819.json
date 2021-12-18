@@ -1,0 +1,17 @@
+{
+  "id": 31819,
+  "name": "Soldier",
+  "models_2": {
+    "models": [
+      25671,
+      25685,
+      26424
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 7941,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25
+}

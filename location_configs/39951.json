@@ -1,0 +1,16 @@
+{
+  "id": 39951,
+  "name": "Dresser",
+  "models_2": {
+    "models": [
+      12469
+    ]
+  },
+  "actions": [
+    null,
+    "Remove",
+    null,
+    null,
+    null
+  ]
+}

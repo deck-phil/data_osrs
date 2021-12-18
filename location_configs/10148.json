@@ -1,0 +1,19 @@
+{
+  "id": 10148,
+  "name": "Output Tap",
+  "models_2": {
+    "models": [
+      9868
+    ]
+  },
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Turn",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 115
+}

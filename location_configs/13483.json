@@ -1,0 +1,20 @@
+{
+  "id": 13483,
+  "name": "Basilisk head",
+  "models_2": {
+    "models": [
+      12160
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "category": 206,
+  "unknown_69": 11
+}

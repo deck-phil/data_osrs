@@ -1,0 +1,19 @@
+{
+  "id": 20371,
+  "name": "Broken logs",
+  "models_2": {
+    "models": [
+      1554
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 20,
+  "colours": [
+    [
+      7050,
+      6705
+    ]
+  ]
+}

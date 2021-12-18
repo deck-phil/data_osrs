@@ -1,0 +1,11 @@
+{
+  "id": 748,
+  "name": "Cave entrance",
+  "models_2": {
+    "models": [
+      733
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2
+}

@@ -1,0 +1,26 @@
+{
+  "id": 24227,
+  "models": [
+    [
+      21,
+      11851
+    ]
+  ],
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      551,
+      10330
+    ],
+    [
+      916,
+      10316
+    ]
+  ],
+  "textures": {
+    "6": 92
+  },
+  "translate_y": 65508
+}

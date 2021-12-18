@@ -1,0 +1,28 @@
+{
+  "id": 41792,
+  "name": "Wardrobe",
+  "models_2": {
+    "models": [
+      11128
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6443,
+      7587
+    ],
+    [
+      6682,
+      7830
+    ]
+  ],
+  "category": 1561
+}

@@ -1,0 +1,24 @@
+{
+  "id": 4306,
+  "name": "Anvil",
+  "models_2": {
+    "models": [
+      1251
+    ]
+  },
+  "is_transparent": true,
+  "actions": [
+    "Smith",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      28,
+      5272
+    ]
+  ],
+  "category": 772
+}

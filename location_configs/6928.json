@@ -1,0 +1,12 @@
+{
+  "id": 6928,
+  "name": "Bone Crane",
+  "models_2": {
+    "models": [
+      6928,
+      6929
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2
+}

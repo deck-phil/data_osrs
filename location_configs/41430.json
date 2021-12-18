@@ -1,0 +1,15 @@
+{
+  "id": 41430,
+  "name": "<col=ffff00>Drummer</col>",
+  "models_2": {
+    "models": [
+      42914
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 7940,
+  "unknown_27": false,
+  "ambient": -10,
+  "contrast": 40
+}

@@ -1,0 +1,19 @@
+{
+  "id": 41004,
+  "name": "Water pump",
+  "models_2": {
+    "models": [
+      41870
+    ]
+  },
+  "ambient": 20,
+  "actions": [
+    "Fill-bucket",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "category": 1508
+}

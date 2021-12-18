@@ -1,0 +1,17 @@
+{
+  "id": 40310,
+  "name": "Cabbage",
+  "models_2": {
+    "models": [
+      8195
+    ]
+  },
+  "unknown_19": 1,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ]
+}

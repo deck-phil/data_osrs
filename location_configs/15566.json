@@ -1,0 +1,19 @@
+{
+  "id": 15566,
+  "name": "Warning sign",
+  "models_2": {
+    "models": [
+      14651,
+      14652
+    ]
+  },
+  "ambient": 10,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 17
+}

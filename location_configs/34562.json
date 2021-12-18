@@ -1,0 +1,12 @@
+{
+  "id": 34562,
+  "name": "Blue chemical",
+  "models_2": {
+    "models": [
+      36429
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1
+}

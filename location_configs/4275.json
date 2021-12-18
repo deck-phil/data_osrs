@@ -1,0 +1,27 @@
+{
+  "id": 4275,
+  "name": "Barrel",
+  "models_2": {
+    "models": [
+      1457
+    ]
+  },
+  "is_transparent": true,
+  "colours": [
+    [
+      33,
+      5392
+    ],
+    [
+      61,
+      7223
+    ],
+    [
+      103,
+      5214
+    ]
+  ],
+  "textures": {
+    "16": 22
+  }
+}

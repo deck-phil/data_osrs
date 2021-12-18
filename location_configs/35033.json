@@ -1,0 +1,13 @@
+{
+  "id": 35033,
+  "name": "Bust",
+  "models_2": {
+    "models": [
+      38528,
+      38531,
+      38529
+    ]
+  },
+  "ambient": 10,
+  "contrast": 44
+}

@@ -1,0 +1,18 @@
+{
+  "id": 13309,
+  "name": "Posh bell-pull",
+  "models_2": {
+    "models": [
+      12904
+    ]
+  },
+  "unknown_19": 1,
+  "actions": [
+    "Ring",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

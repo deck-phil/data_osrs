@@ -1,0 +1,13 @@
+{
+  "id": 32141,
+  "name": "Generator",
+  "models_2": {
+    "models": [
+      34736
+    ]
+  },
+  "dim_x": 5,
+  "dim_y": 2,
+  "unknown_22": true,
+  "unknown_27": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 8579,
+  "name": "Allotment",
+  "models_2": {
+    "models": [
+      8226,
+      7766
+    ]
+  },
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      13982,
+      14866
+    ]
+  ]
+}

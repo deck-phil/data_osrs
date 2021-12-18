@@ -1,0 +1,19 @@
+{
+  "id": 4458,
+  "name": "Table",
+  "models_2": {
+    "models": [
+      1213,
+      4415
+    ]
+  },
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Take-from",
+    "Take-5",
+    null,
+    null,
+    null
+  ]
+}

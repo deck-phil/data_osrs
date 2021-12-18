@@ -1,0 +1,26 @@
+{
+  "id": 9034,
+  "name": "Mahogany",
+  "models_2": {
+    "models": [
+      8900
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Chop down",
+    null,
+    "hidden",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      3470,
+      8070
+    ]
+  ],
+  "category": 164,
+  "mapscene": 1
+}

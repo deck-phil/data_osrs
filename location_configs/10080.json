@@ -1,0 +1,22 @@
+{
+  "id": 10080,
+  "name": "Rocks",
+  "models_2": {
+    "models": [
+      1390
+    ]
+  },
+  "actions": [
+    "Mine",
+    "Prospect",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      24,
+      53
+    ]
+  ]
+}

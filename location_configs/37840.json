@@ -1,0 +1,12 @@
+{
+  "id": 37840,
+  "name": "Bench",
+  "models_2": {
+    "models": [
+      39459
+    ]
+  },
+  "dim_x": 2,
+  "ambient": 20,
+  "contrast": 10
+}

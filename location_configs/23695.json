@@ -1,0 +1,19 @@
+{
+  "id": 23695,
+  "name": "Cylinder Pile",
+  "models_2": {
+    "models": [
+      10597
+    ]
+  },
+  "unknown_19": 1,
+  "ambient": 18,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

@@ -1,0 +1,21 @@
+{
+  "id": 30922,
+  "name": "Magic Mushtree",
+  "models_2": {
+    "models": [
+      33668
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "category": 1156,
+  "unknown_69": 7
+}

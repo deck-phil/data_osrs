@@ -1,0 +1,11 @@
+{
+  "id": 6338,
+  "name": "Plinth",
+  "models_2": {
+    "models": [
+      6174
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2
+}

@@ -1,0 +1,17 @@
+{
+  "id": 5134,
+  "name": "Plant",
+  "models_2": {
+    "models": [
+      12938
+    ]
+  },
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

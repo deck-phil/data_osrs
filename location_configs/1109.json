@@ -1,0 +1,12 @@
+{
+  "id": 1109,
+  "name": "Throne",
+  "models_2": {
+    "models": [
+      934
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true
+}

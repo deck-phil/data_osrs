@@ -1,0 +1,19 @@
+{
+  "id": 158,
+  "name": "Wall",
+  "models_2": {
+    "models": [
+      1764
+    ]
+  },
+  "unknown_19": 1,
+  "colours": [
+    [
+      24,
+      16532
+    ]
+  ],
+  "textures": {
+    "2": 23
+  }
+}

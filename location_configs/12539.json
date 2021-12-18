@@ -1,0 +1,18 @@
+{
+  "id": 12539,
+  "name": "Bookcase",
+  "models_2": {
+    "models": [
+      9501
+    ]
+  },
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13
+}

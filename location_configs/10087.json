@@ -1,0 +1,18 @@
+{
+  "id": 10087,
+  "name": "Ominous Fishing Spot",
+  "models_2": {
+    "models": [
+      1491
+    ]
+  },
+  "unknown_24": 447,
+  "actions": [
+    "Lure",
+    "Bait",
+    null,
+    null,
+    null
+  ],
+  "category": 158
+}

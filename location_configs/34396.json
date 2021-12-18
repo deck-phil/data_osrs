@@ -1,0 +1,28 @@
+{
+  "id": 34396,
+  "name": "Rocks",
+  "models_2": {
+    "models": [
+      36538
+    ]
+  },
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8722,
+      10382
+    ],
+    [
+      8844,
+      10378
+    ]
+  ]
+}

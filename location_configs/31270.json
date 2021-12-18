@@ -1,0 +1,17 @@
+{
+  "id": 31270,
+  "name": "Medium Fossil Display",
+  "models_2": {
+    "models": [
+      33313,
+      33406
+    ]
+  },
+  "actions": [
+    "Add to",
+    null,
+    null,
+    null,
+    null
+  ]
+}

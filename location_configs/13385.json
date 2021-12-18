@@ -1,0 +1,17 @@
+{
+  "id": 13385,
+  "name": "Oak prize chest",
+  "models_2": {
+    "models": [
+      12146
+    ]
+  },
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "category": 206
+}

@@ -1,0 +1,11 @@
+{
+  "id": 1362,
+  "name": "Tropical tree",
+  "models_2": {
+    "models": [
+      1564
+    ]
+  },
+  "dim_x": 4,
+  "dim_y": 3
+}

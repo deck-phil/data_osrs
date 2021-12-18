@@ -1,0 +1,16 @@
+{
+  "id": 32299,
+  "name": "<col=ffff00>Fremennik warrior</col>",
+  "models_2": {
+    "models": [
+      34985,
+      34983
+    ]
+  },
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 7931,
+  "unknown_27": false,
+  "category": 1203
+}

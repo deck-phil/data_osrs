@@ -1,0 +1,20 @@
+{
+  "id": 32157,
+  "name": "Machinery",
+  "models_2": {
+    "models": [
+      34728
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 29394,
+  "name": "Fairy ring",
+  "models_2": {
+    "models": [
+      32109
+    ]
+  },
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Zanaris",
+    "Configure",
+    "Last-destination (CLP)",
+    null,
+    "Remove"
+  ]
+}

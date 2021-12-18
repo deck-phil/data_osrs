@@ -1,0 +1,16 @@
+{
+  "id": 4932,
+  "name": "Glowing fungus",
+  "models_2": {
+    "models": [
+      4892
+    ]
+  },
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ]
+}

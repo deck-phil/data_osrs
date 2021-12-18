@@ -1,0 +1,19 @@
+{
+  "id": 684,
+  "name": "Swamp bubbles",
+  "models_2": {
+    "models": [
+      2259,
+      7766
+    ]
+  },
+  "unknown_24": 480,
+  "actions": [
+    "Suck",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false
+}
