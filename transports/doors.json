@@ -1,0 +1,102 @@
+[
+    {
+        "type": "TRANSPORT",
+        "rawDataRownumber": 145518,
+        "count": 1016,
+        "fromInstance": false,
+        "toInstance": false,
+        "Category": "GAME_OBJECT",
+        "SubCategory": "GAME_OBJECT_FIRST_OPTION",
+        "start": {
+            "p": 0,
+            "x": 2936,
+            "y": 3451
+        },
+        "destinations": [
+            {
+                "p": 0,
+                "x": 2935,
+                "y": 3451
+            }
+        ],
+        "id": 20700,
+        "menuAction": "GAME_OBJECT_FIRST_OPTION",
+        "menuOption": "Open",
+        "menuTarget": "Door"
+    },
+    {
+        "type": "TRANSPORT",
+        "rawDataRownumber": 145518,
+        "count": 1016,
+        "fromInstance": false,
+        "toInstance": false,
+        "Category": "GAME_OBJECT",
+        "SubCategory": "GAME_OBJECT_FIRST_OPTION",
+        "start": {
+            "p": 0,
+            "x": 2936,
+            "y": 3450
+        },
+        "destinations": [
+            {
+                "p": 0,
+                "x": 2935,
+                "y": 3450
+            }
+        ],
+        "id": 20700,
+        "menuAction": "GAME_OBJECT_FIRST_OPTION",
+        "menuOption": "Open",
+        "menuTarget": "Door"
+    },
+    {
+        "type": "TRANSPORT",
+        "rawDataRownumber": 145518,
+        "count": 1016,
+        "fromInstance": false,
+        "toInstance": false,
+        "Category": "GAME_OBJECT",
+        "SubCategory": "GAME_OBJECT_FIRST_OPTION",
+        "start": {
+            "p": 0,
+            "x": 2935,
+            "y": 3451
+        },
+        "destinations": [
+            {
+                "p": 0,
+                "x": 2936,
+                "y": 3451
+            }
+        ],
+        "id": 20700,
+        "menuAction": "GAME_OBJECT_FIRST_OPTION",
+        "menuOption": "Open",
+        "menuTarget": "Door"
+    },
+    {
+        "type": "TRANSPORT",
+        "rawDataRownumber": 145518,
+        "count": 1016,
+        "fromInstance": false,
+        "toInstance": false,
+        "Category": "GAME_OBJECT",
+        "SubCategory": "GAME_OBJECT_FIRST_OPTION",
+        "start": {
+            "p": 0,
+            "x": 2935,
+            "y": 3450
+        },
+        "destinations": [
+            {
+                "p": 0,
+                "x": 2936,
+                "y": 3450
+            }
+        ],
+        "id": 20700,
+        "menuAction": "GAME_OBJECT_FIRST_OPTION",
+        "menuOption": "Open",
+        "menuTarget": "Door"
+    }
+]

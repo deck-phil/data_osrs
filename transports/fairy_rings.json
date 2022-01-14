@@ -1,0 +1,1326 @@
+[
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 7968,
+		"count": 22885,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_FIRST_OPTION",
+		"start": {
+			"p": 0,
+			"x": 3038,
+			"y": 5348
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_FIRST_OPTION",
+		"menuOption": "Zanaris",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "DIR"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 10311,
+		"count": 17344,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 3129,
+			"y": 3496
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "DKR"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 27948,
+		"count": 5971,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2658,
+			"y": 3230
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "DJP"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 46114,
+		"count": 3543,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_FIRST_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2735,
+			"y": 5221
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_FIRST_OPTION",
+		"menuOption": "Zanaris",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "AJQ"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 61070,
+		"count": 2612,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 3108,
+			"y": 3149
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "DIS"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 75359,
+		"count": 2068,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2740,
+			"y": 3351
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "BLR"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 88874,
+		"count": 1728,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 3447,
+			"y": 3470
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "CKS"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 100389,
+		"count": 1512,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 3041,
+			"y": 4532
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "BKQ"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 104287,
+		"count": 1451,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2900,
+			"y": 3111
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "DKP"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 135087,
+		"count": 1099,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2412,
+			"y": 4434
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 3038,
+				"y": 5348
+			},
+			{
+				"p": 0,
+				"x": 3129,
+				"y": 3496
+			},
+			{
+				"p": 0,
+				"x": 2658,
+				"y": 3230
+			},
+			{
+				"p": 0,
+				"x": 2735,
+				"y": 5221
+			},
+			{
+				"p": 0,
+				"x": 3108,
+				"y": 3149
+			},
+			{
+				"p": 0,
+				"x": 2740,
+				"y": 3351
+			},
+			{
+				"p": 0,
+				"x": 3447,
+				"y": 3470
+			},
+			{
+				"p": 0,
+				"x": 3041,
+				"y": 4532
+			},
+			{
+				"p": 0,
+				"x": 2900,
+				"y": 3111
+			},
+			{
+				"p": 0,
+				"x": 1302,
+				"y": 3762
+			},
+			{
+				"p": 0,
+				"x": 2801,
+				"y": 3003
+			},
+			{
+				"p": 0,
+				"x": 3597,
+				"y": 3495
+			},
+			{
+				"p": 0,
+				"x": 2571,
+				"y": 2956
+			},
+			{
+				"p": 0,
+				"x": 2213,
+				"y": 3099
+			},
+			{
+				"p": 0,
+				"x": 1455,
+				"y": 3658
+			},
+			{
+				"p": 0,
+				"x": 2528,
+				"y": 3127
+			},
+			{
+				"p": 0,
+				"x": 2075,
+				"y": 4848
+			},
+			{
+				"p": 0,
+				"x": 2635,
+				"y": 3266
+			},
+			{
+				"p": 0,
+				"x": 2744,
+				"y": 3719
+			},
+			{
+				"p": 0,
+				"x": 3410,
+				"y": 3324
+			},
+			{
+				"p": 0,
+				"x": 2513,
+				"y": 3884
+			},
+			{
+				"p": 0,
+				"x": 3447,
+				"y": 9824
+			},
+			{
+				"p": 0,
+				"x": 2385,
+				"y": 3035
+			},
+			{
+				"p": 0,
+				"x": 2437,
+				"y": 5126
+			},
+			{
+				"p": 0,
+				"x": 3059,
+				"y": 4875
+			},
+			{
+				"p": 0,
+				"x": 2996,
+				"y": 3114
+			},
+			{
+				"p": 0,
+				"x": 3251,
+				"y": 3095
+			},
+			{
+				"p": 0,
+				"x": 3037,
+				"y": 4763
+			},
+			{
+				"p": 0,
+				"x": 1639,
+				"y": 3868
+			},
+			{
+				"p": 0,
+				"x": 2503,
+				"y": 3636
+			},
+			{
+				"p": 0,
+				"x": 3469,
+				"y": 3431
+			},
+			{
+				"p": 0,
+				"x": 2319,
+				"y": 3619
+			},
+			{
+				"p": 0,
+				"x": 2644,
+				"y": 3495
+			},
+			{
+				"p": 0,
+				"x": 2500,
+				"y": 3896
+			},
+			{
+				"p": 0,
+				"x": 3082,
+				"y": 3206
+			},
+			{
+				"p": 0,
+				"x": 2740,
+				"y": 2738
+			},
+			{
+				"p": 0,
+				"x": 2650,
+				"y": 4730
+			},
+			{
+				"p": 0,
+				"x": 2150,
+				"y": 3070
+			},
+			{
+				"p": 0,
+				"x": 3423,
+				"y": 3016
+			},
+			{
+				"p": 0,
+				"x": 2682,
+				"y": 3081
+			},
+			{
+				"p": 0,
+				"x": 2705,
+				"y": 3577
+			},
+			{
+				"p": 0,
+				"x": 2700,
+				"y": 3247
+			}
+		],
+		"id": 29560,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "BKS",
+		"fairyRingMain": true
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 142144,
+		"count": 1041,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 1302,
+			"y": 3762
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "CIR"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 170249,
+		"count": 856,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2801,
+			"y": 3003
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "CKR"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 207408,
+		"count": 692,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 3597,
+			"y": 3495
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "ALQ"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 216637,
+		"count": 659,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2571,
+			"y": 2956
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "AKS"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 227986,
+		"count": 623,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2213,
+			"y": 3099
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "DLR"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 264422,
+		"count": 531,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 1455,
+			"y": 3658
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "DJR"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 305449,
+		"count": 455,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2528,
+			"y": 3127
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "CIQ"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 313769,
+		"count": 442,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2075,
+			"y": 4848
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "CKP"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 339066,
+		"count": 405,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2635,
+			"y": 3266
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "BIS"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 344408,
+		"count": 399,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_THIRD_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2744,
+			"y": 3719
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_THIRD_OPTION",
+		"menuOption": "Last-destination (AJR)",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "DKS"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 358683,
+		"count": 381,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 3410,
+			"y": 3324
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "BIP"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 360247,
+		"count": 379,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2513,
+			"y": 3884
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "CIP"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 396354,
+		"count": 341,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_FIRST_OPTION",
+		"start": {
+			"p": 0,
+			"x": 3447,
+			"y": 9824
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_FIRST_OPTION",
+		"menuOption": "Zanaris",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "DLS"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 416031,
+		"count": 324,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2385,
+			"y": 3035
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "BKP"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 430281,
+		"count": 312,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2437,
+			"y": 5126
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "BLP"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 444229,
+		"count": 302,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 3059,
+			"y": 4875
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "ALR"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 481545,
+		"count": 276,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_THIRD_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2996,
+			"y": 3114
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_THIRD_OPTION",
+		"menuOption": "Last-destination (DKR)",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "AIQ"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 498943,
+		"count": 265,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 3251,
+			"y": 3095
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "BIQ"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 506628,
+		"count": 261,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 3037,
+			"y": 4763
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "DIP"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 529947,
+		"count": 248,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_THIRD_OPTION",
+		"start": {
+			"p": 0,
+			"x": 1639,
+			"y": 3868
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 14839,
+		"menuAction": "GAME_OBJECT_THIRD_OPTION",
+		"menuOption": "Last-destination",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "CIS"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 559983,
+		"count": 233,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_THIRD_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2503,
+			"y": 3636
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_THIRD_OPTION",
+		"menuOption": "Last-destination (CIR)",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "ALP"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 563396,
+		"count": 232,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 3469,
+			"y": 3431
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "BKR"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 601128,
+		"count": 216,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_THIRD_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2319,
+			"y": 3619
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_THIRD_OPTION",
+		"menuOption": "Last-destination (DKR)",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "AKQ"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 615174,
+		"count": 210,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_THIRD_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2644,
+			"y": 3495
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_THIRD_OPTION",
+		"menuOption": "Last-destination (DKR)",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "ALS"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 674363,
+		"count": 190,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2500,
+			"y": 3896
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "AJS"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 690724,
+		"count": 185,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 3082,
+			"y": 3206
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "CLP"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 746494,
+		"count": 170,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2740,
+			"y": 2738
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "CLR"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 777409,
+		"count": 163,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2650,
+			"y": 4730
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "BJR"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 828829,
+		"count": 151,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2150,
+			"y": 3070
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "BJS"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 981490,
+		"count": 125,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_SECOND_OPTION",
+		"start": {
+			"p": 0,
+			"x": 3423,
+			"y": 3016
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_SECOND_OPTION",
+		"menuOption": "Configure",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "DLQ"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 1009991,
+		"count": 122,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_THIRD_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2682,
+			"y": 3081
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_THIRD_OPTION",
+		"menuOption": "Last-destination (DKR)",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "CLS"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 1020466,
+		"count": 120,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_FIRST_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2705,
+			"y": 3577
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_FIRST_OPTION",
+		"menuOption": "Zanaris",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "CJR"
+	},
+	{
+		"type": "TRANSPORT",
+		"rawDataRownumber": 1303500,
+		"count": 91,
+		"fromInstance": false,
+		"toInstance": false,
+		"Category": "GAME_OBJECT",
+		"SubCategory": "GAME_OBJECT_THIRD_OPTION",
+		"start": {
+			"p": 0,
+			"x": 2700,
+			"y": 3247
+		},
+		"destinations": [
+			{
+				"p": 0,
+				"x": 2412,
+				"y": 4436
+			}
+		],
+		"id": 29495,
+		"menuAction": "GAME_OBJECT_THIRD_OPTION",
+		"menuOption": "Last-destination (CIQ)",
+		"menuTarget": "Fairy ring",
+		"fairyRingCode": "AIR"
+	}
+]
